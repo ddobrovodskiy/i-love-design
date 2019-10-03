@@ -56,3 +56,11 @@ margin-left: 28.1vw;
 margin-right: 28.1vw;
 margin-bottom: 3.1vw;
 }
+
+.lower-block-title{
+    font-size: 4.16vw;
+color: #464b4f;
+font-family: "Segoe UI";
+font-weight: bold;
+text-align: center;
+}
